@@ -75,7 +75,7 @@ This project aims to create a fitness tracking experience that works for:
 
 ## 🔗 Figma File
 
-[View Figma Design](https://www.figma.com/design/hZcuslhFZNanCY1mgwiGix/Fitness-DashBoard?node-id=0-1&t=3e3s1JU9GQBVI0fQ-1&utm_source=chatgpt.com)
+(https://www.figma.com/design/hZcuslhFZNanCY1mgwiGix/Fitness-DashBoard?node-id=0-1&t=3e3s1JU9GQBVI0fQ-1&utm_source=chatgpt.com)
 
 ---
 
@@ -91,11 +91,7 @@ This project aims to create a fitness tracking experience that works for:
 
 ## 📸 Preview
 
-Add your dashboard preview image here.
-
-```md
-![Fitness Dashboard Preview](preview.png)
-```
+See the files attached above.
 
 ---
 
